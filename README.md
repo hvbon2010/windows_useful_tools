@@ -8,3 +8,5 @@ This tool like with stats on MacOS or indicator-multiload on Linux
 # Putty
 https://www.putty.org/
 
+# Lingoes (Dictionary)
+http://www.lingoes.net/en/translator/download.htm
